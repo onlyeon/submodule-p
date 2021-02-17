@@ -1,3 +1,6 @@
 [submodule "submodule-c"]
 	path = submodule-c
 	url = https://github.com/onlyeon/submodule-c
+[submodule "source/frontend/src/core-style"]
+	path = source/frontend/src/core-style
+	url = https://github.com/onlyeon/design-core.git
